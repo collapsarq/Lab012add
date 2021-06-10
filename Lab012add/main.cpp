@@ -27,10 +27,6 @@ int main()
 	std::cout << q1.front();
 
 	std::cout << std::endl;
-	std::cout << "Удаление переднего элемента";
-	q1.pop();
-
-	std::cout << std::endl;
 	std::cout << "Текущая очередь:\n ";
 	q1.output();
 
